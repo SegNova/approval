@@ -1,0 +1,171 @@
+html{
+    scroll-behavior: auto;
+}
+
+.main {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+    list-style-type: none;
+}
+
+button {
+	box-shadow:inset 0px 0px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
+	background-color:#f9f9f9;
+	border-radius:7px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:19px;
+	font-weight:bold;
+	padding:8px 21px;
+	text-decoration:none;
+}
+button:hover {
+	background:linear-gradient(to bottom, #e9e9e9 5%, #f9f9f9 100%);
+	background-color:#e9e9e9;
+}
+button:active {
+	position:relative;
+	top:1px;
+}
+
+button a{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:45px;
+    padding-right:45px;
+    text-decoration: none;
+    color:black;
+
+}
+
+.overallH {
+    display: flex;
+    background-color:#34dc9e;
+}
+
+.logo {
+    padding: 0px;
+    margin: 0px;
+    width: 44%;
+}
+
+.logo img {
+    width: 200px;
+}
+
+.topHeader {
+    width: 50%;
+}
+.topHeader li a{
+    text-decoration: none;
+    color:black;
+    background-color:#34dc9e;
+
+}
+
+header {
+    margin-top: 46px;
+    margin-bottom: 10px;
+    text-align: end;
+
+}
+
+header ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+header li {
+    display: inline;
+    margin: 5px;
+    padding: 6px;
+    font-size: 25px;
+    background-color: #34dc9e;
+}
+
+.top {
+    margin-bottom: 60px;
+    text-align: center;
+    background-color: lightblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.top h1 {
+    margin-bottom: 0px;
+    font-size: 61px;
+}
+
+.top p {
+    margin: 10px 23px;
+    font-size: 24px;
+}
+
+.Q1,
+.Q2,
+.Q3,
+.Q4 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 815px
+}
+
+.button-set button {
+    font-size: 24px;
+    margin-left: 49px;
+    margin-right: 84px;
+    padding-left: 0px;
+    width: 200px;
+}
+
+.chooseset {
+    display: block;
+}
+
+.chooseset button {
+    font-size: 24px;
+    margin-left: 49px;
+    margin-right: 84px;
+    padding-left: 17px;
+    width: 200px;
+}
+.chooseset button a{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:5px;
+    padding-right:5px;
+    text-decoration: none;
+    color:black;
+
+}
+
+.A1,
+.A2,
+.A3,
+.A4 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 815px
+}
+
+.button-set {
+    margin-top: 0px;
+    margin-bottom: 230px;
+}
+
+button {
+    font-size: 24px;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #34dc9e;
+    color: black;
+  }
