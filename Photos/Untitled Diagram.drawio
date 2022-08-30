@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T18:28:50.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="H_Ch_cKr8KgsONjG2H8U" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T18:36:29.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="hX3lvw7eDpiuRymov7FS" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3388" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3231" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="StAt1fhdRgfHMtPMWZl1-8" value="Adding?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-936" y="260" width="115" height="110" as="geometry" />
+          <mxGeometry x="-936" y="280" width="115" height="110" as="geometry" />
         </mxCell>
         <mxCell id="StAt1fhdRgfHMtPMWZl1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="StAt1fhdRgfHMtPMWZl1-15" target="StAt1fhdRgfHMtPMWZl1-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -61,6 +61,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="124" y="565" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="-1010" y="590" />
+              <mxPoint x="-1010" y="688" />
               <mxPoint x="-1036" y="688" />
               <mxPoint x="-1036" y="1110" />
               <mxPoint x="124" y="1110" />
@@ -73,7 +75,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="StAt1fhdRgfHMtPMWZl1-15" value="Painting?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-948.5" y="560" width="140" height="150" as="geometry" />
+          <mxGeometry x="-948.5" y="515" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="StAt1fhdRgfHMtPMWZl1-20" value="Send to Tawk" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-608.5" y="810" width="120" height="60" as="geometry" />
@@ -101,9 +103,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uaetuBd2wdDZVBweYklu-0" value="Adding Security?&lt;br&gt;*add example" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-346" y="260" width="115" height="110" as="geometry" />
+          <mxGeometry x="-470" y="260" width="115" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="uaetuBd2wdDZVBweYklu-11" value="No ACC link to Sentate Bill 1588" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uaetuBd2wdDZVBweYklu-11" value="No ACC link to Sentate Bill 1588&lt;br&gt;but must follow the law" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-106" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uaetuBd2wdDZVBweYklu-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uaetuBd2wdDZVBweYklu-12" target="uaetuBd2wdDZVBweYklu-15">
@@ -153,13 +155,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="124" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="124" y="672" />
+              <mxPoint x="124" y="683" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uaetuBd2wdDZVBweYklu-28" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="uaetuBd2wdDZVBweYklu-27">
           <mxGeometry x="-0.2609" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-38" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uaetuBd2wdDZVBweYklu-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uaetuBd2wdDZVBweYklu-25" target="uaetuBd2wdDZVBweYklu-29">
@@ -170,8 +172,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uaetuBd2wdDZVBweYklu-25" value="Attaching or extedning your home&lt;br&gt;*add Examples" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-315" y="590" width="160" height="165" as="geometry" />
+        <mxCell id="uaetuBd2wdDZVBweYklu-25" value="Attaching or extedning&lt;br&gt;&amp;nbsp;your home&lt;br&gt;*add Examples" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-292" y="600" width="160" height="165" as="geometry" />
         </mxCell>
         <mxCell id="uaetuBd2wdDZVBweYklu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uaetuBd2wdDZVBweYklu-29">
           <mxGeometry relative="1" as="geometry">
@@ -191,7 +193,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uaetuBd2wdDZVBweYklu-29" value="Adding to your front or back yard&lt;br style=&quot;font-size: 10px;&quot;&gt;*add Examples" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uaetuBd2wdDZVBweYklu-29" value="Adding detach structure in the&lt;br&gt;front or back yard&lt;br style=&quot;font-size: 9px;&quot;&gt;*add Examples" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-304" y="880" width="184" height="170" as="geometry" />
         </mxCell>
       </root>
