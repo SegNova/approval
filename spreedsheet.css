@@ -5,17 +5,35 @@ body{
     margin:0px;
     padding:0px;
 }
-
 .main {
     margin: 0px;
     width: 100%;
     padding: 0px;
     list-style-type: none;
 }
+.xrab{
+    height:10px;
+    background-color: rgba(41,48,55,0.95);    
+}
+
+.boarderTop{
+    width:100%;
+}
+.accoutLG{
+    text-align: end;
+    background-color: rgba(41,48,55,0.95);    
+    height:54.188px;
+    padding: 7px 20px 5px;
+}
+.accoutLG a{
+    padding: 5px 5px;
+    background-color:#5e7d6f;
+    border:1px solid #5e7d6f;
+    color:#ffffff;
+    font-size:15px;
+}
 
 #menuoa{
-    background-color:white;
-    background-color: rgba(41,48,55,0.95);
     position:absolute;
 }
 .overallH {
@@ -34,7 +52,6 @@ body{
 header {
     margin-top: 46px;
     margin-bottom: 10px;
-    text-align: end;
 
 }
 
