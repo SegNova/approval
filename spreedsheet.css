@@ -23,14 +23,20 @@ body{
     text-align: end;
     background-color: rgba(41,48,55,0.95);    
     height:54.188px;
-    padding: 7px 20px 5px;
 }
-.accoutLG a{
-    padding: 5px 5px;
+.accoutLG a
+{
     background-color:#5e7d6f;
-    border:1px solid #5e7d6f;
-    color:#ffffff;
-    font-size:15px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:17px;
+	font-weight:bold;
+	padding:5px 5px;
+	text-decoration:none;
+    position:relative;
+    right:15px;
 }
 
 #menuoa{
@@ -68,6 +74,34 @@ header li {
     font-size: 25px;
 }
 
+.searchbtn{
+	box-shadow:inset 0px 0px 0px 0px #ffffff;
+	background-color:transparent;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:11px;
+	padding:0px 0px;
+	text-decoration:none;
+}
+
+.number{
+    text-align: right;
+}
+
+.searchbox{
+    text-align: right;
+}
+
+.topHeader{
+    position:relative;
+    margin-bottom:25px;
+}
+
+.topHeader .menulist{
+    text-align: right;
+}
 
 
 button {
