@@ -171,6 +171,15 @@ button a{
     margin-bottom: 815px
 }
 
+.setimage{
+    padding-top: 50px;
+    margin: 0 30px 0 0;
+}
+
+.setimage img{
+    height:16em;
+}
+
 .button-set button {
     font-size: 24px;
     margin-left: 49px;
