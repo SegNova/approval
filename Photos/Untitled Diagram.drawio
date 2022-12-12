@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T23:38:29.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fbhJFUR_coh6yDz2lYRF" version="20.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-12T23:42:14.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="2KdMn2mRr03OSSprPcm1" version="20.6.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="6888" dy="3048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -200,18 +200,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DxHkEgZ_2HkPipDnaPcp" name="Page-2">
-    <mxGraphModel dx="4063" dy="1327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3555" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5fuhM9ePeNs4T8A8A1_9-1" value="You will need to fill out an ACC applicaiton&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3130" y="1135" width="160" height="80" as="geometry" />
+          <mxGeometry x="2690" y="1135" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5fuhM9ePeNs4T8A8A1_9-2" value="Tawk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3130" y="1455" width="160" height="80" as="geometry" />
+          <mxGeometry x="2690" y="1455" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5fuhM9ePeNs4T8A8A1_9-3" value="No ACC Applicaiton needed&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3130" y="865" width="160" height="80" as="geometry" />
+          <mxGeometry x="2690" y="865" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5fuhM9ePeNs4T8A8A1_9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5fuhM9ePeNs4T8A8A1_9-6" target="5fuhM9ePeNs4T8A8A1_9-7">
           <mxGeometry relative="1" as="geometry" />
@@ -235,8 +235,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="90" y="1660" />
-              <mxPoint x="3050" y="1660" />
-              <mxPoint x="3050" y="1495" />
+              <mxPoint x="2540" y="1660" />
+              <mxPoint x="2540" y="1495" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -411,7 +411,7 @@
           <mxGeometry x="1200" y="940" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5fuhM9ePeNs4T8A8A1_9-61" value="Exdending the Home" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="1190" width="120" height="120" as="geometry" />
+          <mxGeometry x="2150" y="1170" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5fuhM9ePeNs4T8A8A1_9-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5fuhM9ePeNs4T8A8A1_9-65">
           <mxGeometry relative="1" as="geometry">
@@ -427,11 +427,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5fuhM9ePeNs4T8A8A1_9-65" value="Are you adding an itemt to the home" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="5fuhM9ePeNs4T8A8A1_9-65" value="Are you adding an item to the home" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2140" y="1360" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5fuhM9ePeNs4T8A8A1_9-79" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="5fuhM9ePeNs4T8A8A1_9-73" target="5fuhM9ePeNs4T8A8A1_9-78">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5fuhM9ePeNs4T8A8A1_9-79" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="5fuhM9ePeNs4T8A8A1_9-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2200" y="880" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5fuhM9ePeNs4T8A8A1_9-81" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="5fuhM9ePeNs4T8A8A1_9-73">
           <mxGeometry relative="1" as="geometry">
@@ -443,9 +445,6 @@
         </mxCell>
         <mxCell id="5fuhM9ePeNs4T8A8A1_9-73" value="Adding a space?" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1820" y="930" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="5fuhM9ePeNs4T8A8A1_9-78" value="Adding a space?" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="930" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
