@@ -69,25 +69,145 @@ Questions with class and ID names
         </div> -->
     <!--Question to answer with (Y/N) not all quesiton will be answer Quesiton will narrows down to the proper answer-->
 
-    <!-- First Two Generic Questions -->
+    <!-- 
+        First Two Generic Questions 
+        GQ - styles the questions
+    -->
     <div class="container text-center">
-        <div class="col Q1" id="Q1">
-            <h2>Are you working on exterior of the home?</h2>
-            <br>
-        </div>
-        <div class="row">
-            <div class="d-grid gap-2 col-3 mx-auto button-set">
-                <button class="btn btn-primary" dat-bs-toggle="button" id="q1yes">
-                    <a class="text-white" href="#A1F">Yes</a>
-                </button>
+        <div class="QGroup">
+            <div class="col GQ" id="Q1">
+                <h2>Are you working on exterior of the home?</h2>
+                <br>
             </div>
-            <div class="d-grid gap-2 col-3 mx-auto">
-                <button class="btn btn-primary" dat-bs-toggle="button" id="q1no">
-                    <a class="text-white" class="al"  href="#Q2N">No</a>
-                </button>
+            <div class="row">
+                <div class="d-grid gap-2 col-3 mx-auto button-set">
+                    <button type="button" class="btn" dat-bs-toggle="button" id="q1yes">
+                        <a class="mbtn" href="#A1F">Yes</a>
+                    </button>
+                </div>
+                <div class="d-grid gap-2 col-3 mx-auto">
+                    <button class="btn" dat-bs-toggle="button" id="q1no">
+                        <a class="mbtn" href="#Q2N">No</a>
+                    </button>
+                </div>
             </div>
         </div>
-        <!-- <div class="Q2" id="Q2N">
+        <div class="QGroup">
+            <div class="col GQ" id="Q2">
+                <h2>Are you working on the interior of the home?</h2>
+                <br>
+            </div>
+            <div class="row">
+                <div class="d-grid gap-2 col-3 mx-auto button-set">
+                    <button type="button" class="btn" dat-bs-toggle="button" id="q1yes">
+                        <a class="mbtn" href="#A1F">Yes</a>
+                    </button>
+                </div>
+                <div class="d-grid gap-2 col-3 mx-auto">
+                    <button class="btn" dat-bs-toggle="button" id="q1no">
+                        <a class="mbtn" href="#Q2N">No</a>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="QGroup">
+            <div class="col GQ" id="Q3">
+                <h2>Are you working on the roof?</h2>
+                <br>
+            </div>
+            <div class="row">
+                <div class="d-grid gap-2 col-3 mx-auto button-set">
+                    <button type="button" class="btn" dat-bs-toggle="button" id="q1yes">
+                        <a class="mbtn" href="#A1F">Yes</a>
+                    </button>
+                </div>
+                <div class="d-grid gap-2 col-3 mx-auto">
+                    <button class="btn" dat-bs-toggle="button" id="q1no">
+                        <a class="mbtn" href="#Q2N">No</a>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="QGroup">
+            <div class="col GQ" id="Q4">
+                <h2>Are you working on the body of the house?</h2>
+                <br>
+            </div>
+            <div class="row">
+                <div class="d-grid gap-2 col-3 mx-auto button-set">
+                    <button type="button" class="btn" dat-bs-toggle="button" id="q1yes">
+                        <a class="mbtn" href="#A1F">Yes</a>
+                    </button>
+                </div>
+                <div class="d-grid gap-2 col-3 mx-auto">
+                    <button class="btn" dat-bs-toggle="button" id="q1no">
+                        <a class="mbtn" href="#Q2N">No</a>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="QGroup">
+            <div class="col GQ" id="Q5">
+                <h2>Are you working on your front/back yard?</h2>
+                <br>
+            </div>
+            <div class="row">
+                <div class="d-grid gap-2 col-3 mx-auto button-set">
+                    <button type="button" class="btn" dat-bs-toggle="button" id="q1yes">
+                        <a class="mbtn" href="#A1F">Yes</a>
+                    </button>
+                </div>
+                <div class="d-grid gap-2 col-3 mx-auto">
+                    <button class="btn" dat-bs-toggle="button" id="q1no">
+                        <a class="mbtn" href="#Q2N">No</a>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="QGroup">
+            <div class="col GQ" id="Q6">
+                <h2>Are you installing an item on the roof? </h2>
+                <br>
+            </div>
+            <div class="row">
+                <div class="d-grid gap-2 col-3 mx-auto button-set">
+                    <button type="button" class="btn" dat-bs-toggle="button" id="q1yes">
+                        <a class="mbtn" href="#A1F">Yes</a>
+                    </button>
+                </div>
+                <div class="d-grid gap-2 col-3 mx-auto">
+                    <button class="btn" dat-bs-toggle="button" id="q1no">
+                        <a class="mbtn" href="#Q2N">No</a>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="QGroup">
+            <div class="col GQ" id="Q7">
+                <h2>Are you installing an item on the roof? </h2>
+                <br>
+            </div>
+            <div class="row">
+                <div class="d-grid gap-2 col-3 mx-auto button-set">
+                    <button type="button" class="btn" dat-bs-toggle="button" id="q1yes">
+                        <a class="mbtn" href="#A1F">Yes</a>
+                    </button>
+                </div>
+                <div class="d-grid gap-2 col-3 mx-auto">
+                    <button class="btn" dat-bs-toggle="button" id="q1no">
+                        <a class="mbtn" href="#Q2N">No</a>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+    </div>
+    <!-- <div class="Q2" id="Q2N">
             <h2>Are you working on the interior of the home?</h2>
             <div class="button-set">
                 <button class="btn" id="q2yes">
@@ -190,8 +310,8 @@ Questions with class and ID names
                 </div>
             </div>
         </div> -->
-        <!--Answer for top Questions-->
-        <!-- <div class="A1" id="A1F">
+    <!--Answer for top Questions-->
+    <!-- <div class="A1" id="A1F">
             <h2>You will need a ACC Application click the link below to request one</h2>
             <div class="chooseset">
                 <button>
@@ -230,7 +350,7 @@ Questions with class and ID names
                 </div>
             </div>
         </div> -->
-        <!-- <footer>
+    <!-- <footer>
             <p>Copyright &copy; sterlingasi.com</p>
         </footer> -->
     </div>
